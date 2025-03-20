@@ -21,5 +21,7 @@ Follow these steps to set up the environment and run the notebook:
     ```
     or if you are in vscode, just press 'Run All'
 
+    Start with [Diabetes_Prediction.ipynb]
+
 ### Disclaimer
 Please note that running the entire notebook may take some time, depending on your system's performance. It took approximately 1 hour 15 minutes to complete all computations and evaluations on a Macbook M1 Pro.
